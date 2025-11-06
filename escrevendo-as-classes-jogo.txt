@@ -1,0 +1,16 @@
+Desafio - DIO -  Escrevendo as classes de um Jogo
+
+Gohan: poder - Masenko
+
+Goku: poder - Kamehameha
+
+Kuririn: poder - Kienzan
+
+Vegeta: poder - Galick Ho
+
+
+
+
+
+
+
