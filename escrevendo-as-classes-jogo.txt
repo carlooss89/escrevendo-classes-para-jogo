@@ -1,12 +1,12 @@
 Desafio - DIO -  Escrevendo as classes de um Jogo
 
-Gohan: poder - Masenko
+Gohan: tipo híbrido / poder - Masenko / idade: 12
 
-Goku: poder - Kamehameha
+Goku: tipo Super Saiyajin / poder - Kamehameha / idade: 24
 
-Kuririn: poder - Kienzan
+Kuririn: tipo Terráqueo / poder - Kienzan / idade: 14 
 
-Vegeta: poder - Galick Ho
+Vegeta: tipo príncipe Saiyajin / poder - Galick Ho / idade: 37
 
 
 
